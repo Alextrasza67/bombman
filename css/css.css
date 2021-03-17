@@ -1,0 +1,25 @@
+body, div, dl, dt, dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote，th,td{margin:0;padding:0;}
+table{border-collapse:collapse;border-spacing:0;}
+fieldset,img {border:0;}
+address,caption, cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}
+ol,ul {list-style:none;}
+capation,th{text-align:left;}
+h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
+q:before, q:after{content:' '}
+abbr,acronym{border:0;}
+
+body{background-color: #faf8ef;}
+.main{width:850px;height: 550px;background-color: #bbada0;margin: 50px auto;padding:25px;background-image: url(../images/background.jpg);}
+.cell{width:50px;height: 50px;float: left;}
+.street{background-color: #6a6a71;}
+
+.bomb{background: url(../images/bomb.png) no-repeat center #6a6a71;}
+.tnt{background: url(../images/tnt.png) no-repeat center #6a6a71;}
+
+.devil1{background: url(../images/devil_1.png) no-repeat center #6a6a71;}
+.devil2{background: url(../images/devil_2.png) no-repeat center #6a6a71;}
+.devil3{background: url(../images/devil_3.png) no-repeat center #6a6a71;}
+
+.npc{background: url(../images/npc.png) no-repeat center #6a6a71;}
+
+.mushroom{background: url(../images/mushroom.png);display: block;width: 50px;height: 50px;}
